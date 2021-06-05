@@ -8,14 +8,17 @@
 
 🌱  **Learn Python FREE:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
+
 🌱  **Learn R for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
+<!--
 📫 **How to reach me:**
-[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/thedataprof)
+[![Follow](https://img.shields.io/twitter/follow/)](https://www.twitter.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dataprofessor/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/data.professor/)
+-->
 <!--
 **help-datainsights/help-datainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
