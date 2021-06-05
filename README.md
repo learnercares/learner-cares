@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/">
-  <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights.png" width="48">
+  <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights.png" height="48">
 </a>
 
 <!--
