@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/">
-  <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights_.png" height="250">
+  <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights_.jpg" height="250">
 </a>
 
 🟠 **Learn Data Science for FREE:**
