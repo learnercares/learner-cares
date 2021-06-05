@@ -8,10 +8,10 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@shahid-dhn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/help-datainsights/help-datainsights/)
 
-🌱  **Learn Python FREE:**
+🌱  **Learn Python for FREE:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
-🌱  **Learn R for FREE:**
+🌱  **Learn R for for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
 <!--
