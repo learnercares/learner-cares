@@ -7,18 +7,18 @@
 
 I'm Shahid. I work as a full-time Analyst Manager. In my spare time I do open-sourcing (***normally it is about 1-2 hours***). Most of my open-source projects below 👇🏻 are focused on one thing - **to help people learn 📚**. You may use these projects to learn about Data Science and get prepared for technical interviews, or to learn Python and R syntax and start experimenting with machine learning algorithms, etc. 
 
-:orange_square: **Data Science for FREE:**
+🟧 **Data Science for FREE:**
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@shahid-dhn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/help-datainsights/help-datainsights/)
 <!--[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCw3FCoiTiZgCJla3rXUv7FQ?style=social)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)-->
 
-:white_square: **Learn Machine Learning for FREE:**
+⬜ **Learn Machine Learning for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
-:yellow_square: **Learn Python for FREE:**
+🟨 **Learn Python for FREE:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
-:green_square: **Learn R for FREE:**
+🟩 **Learn R for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
 📫 **Getting in touch:**
