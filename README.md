@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights.png" height="260">
 </a>
 
-<!-- Points -->
+:wave:
 
 
 🟠 **Learn Data Science for FREE:**
@@ -16,7 +16,7 @@
 🌱  **Learn R for for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
-📫 **How to reach me:**
+📫 **Getting in touch:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/)
