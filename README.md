@@ -5,7 +5,7 @@
 
 **Hi there!**:wave:
 
-I'm Shahid. I work as a full-time Analyst. In my spare time I do open-sourcing (normally it is about 1-2 hours). Most of my open-source projects below 👇🏻 are focused on one thing - ***to help people learn 📚***. You may use these projects to learn about Data Science and get prepared for technical interviews, or to learn Python and R syntax and start experimenting with machine learning algorithms, etc. 
+I'm Shahid. I work as a full-time Analyst. In my spare time I do open-sourcing (normally it is about 1-2 hours). Most of my open-source projects below 👇🏻 are focused on one thing - **to help people learn 📚**. You may use these projects to learn about Data Science and get prepared for technical interviews, or to learn Python and R syntax and start experimenting with machine learning algorithms, etc. 
 
 :orange_square: **Learn Data Science for FREE:**
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@shahid-dhn)
