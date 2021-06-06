@@ -2,11 +2,12 @@
   <img width="100%" src="https://github.com/help-datainsights/help-datainsights/blob/main/help-data-insights.png" height="260">
 </a>
 
+<!--  -->
 
 🟠 **Learn Data Science for FREE:**
-<!--[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCw3FCoiTiZgCJla3rXUv7FQ?style=social)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)-->
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@shahid-dhn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/help-datainsights/help-datainsights/)
+<!--[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCw3FCoiTiZgCJla3rXUv7FQ?style=social)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)-->
 
 🌱  **Learn Python for FREE:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
