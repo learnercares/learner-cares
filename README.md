@@ -15,7 +15,7 @@ I'm Shahid. I work as a full-time Analyst Manager. In my spare time I do open-so
 :yellow_square: **Learn Python for FREE:**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
-:green_square: **Learn R for for FREE:**
+:green_square: **Learn R for FREE:**
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/channel/UCw3FCoiTiZgCJla3rXUv7FQ)
 
 📫 **Getting in touch:**
