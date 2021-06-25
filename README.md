@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/">
-  <img width="100%" src="https://github.com/learner-cares/learner-cares/blob/main/learner-cares.gif" height="290">
+  <img width="100%" src="https://github.com/learner-cares/learner-cares/blob/main/learnercares.gif" height="290">
 </a>
 
 
