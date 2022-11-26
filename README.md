@@ -25,6 +25,8 @@ I am a learner. I work as a full-time Data Science Manager. In my spare time I d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/)
+![itsmohammadshahid](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{itsmohammadshahid})
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{itsmohammadshahid}/notebook)
 <!--[![Follow](https://img.shields.io/twitter/follow/)](https://www.twitter.com/)-->
 <!--
 **help-datainsights/help-datainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
